@@ -17,18 +17,7 @@ foreach ($answers as $a=>$answer) {
 </div>
 
 <script>
-/*$.get({
-	url:'http://185.145.46.41',
-	success:function(data){
-		document.write("got there successfully");
-	},
-	error:function(error){
-		document.write("there was an error: "+error);
-		console.log("there was an error: "+error);
-		
-	}
-});*/
-console.log("hello");
+
 
 var content;
 
